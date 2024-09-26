@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 <!--
 **Slowist-Lee/Slowist-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,8 @@ Here are some ideas to get you started:
 - ✨ I am major in Information Engineering & Minor in Advanced Honor Class of Engineering Education (ACEE)
 - 🌱 I’m currently learning data structure & web ...
 - 📫 How to reach me: leexin005@163.com
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slowist-Lee&layout=compact" />
+</a>

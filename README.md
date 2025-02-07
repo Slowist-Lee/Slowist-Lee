@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I'm Slowist from ZheJiang University
 - ✨ I am major in Information Engineering & Minor in Advanced Honor Class of Engineering Education (ACEE)
-- 🌱 I’m currently learning data structure & web ...
-- 📫 How to reach me: leexin005@163.com
+- 🌱 I’m currently learning data structure & ML & CA ...
+- 📫 How to reach me: slowistlee@gmail.com
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

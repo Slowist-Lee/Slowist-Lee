@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I'm Slowist from ZheJiang University
 - ✨ I am major in Information Engineering & Minor in Advanced Honor Class of Engineering Education (ACEE)
-- 🌱 I’m currently learning data structure & ML & CA ...
+- 🌱 I’m currently learning AI & Information Theory
 - 📫 How to reach me: slowistlee@gmail.com
 
 

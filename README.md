@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slowist-Lee&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slowist-Lee&layout=compact&exclude_repo=NotionNext,zotero-arxiv-daily,zju-welcome,acee2025-registration,ubb-converter,slowist-notebook,cs61b,college-application,BetterScore,CS61C-summer20" />
 </a>
